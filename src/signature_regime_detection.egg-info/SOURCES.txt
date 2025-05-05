@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/signature_regime_detection.egg-info/PKG-INFO
+src/signature_regime_detection.egg-info/SOURCES.txt
+src/signature_regime_detection.egg-info/dependency_links.txt
+src/signature_regime_detection.egg-info/top_level.txt

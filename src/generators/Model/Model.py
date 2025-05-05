@@ -4,7 +4,7 @@ from typing import List
 import numpy as np
 from scipy.special import gamma, gammainc
 
-from generators.config import ModelConfig
+from src.generators.config import ModelConfig
 
 
 # TODO: A better way of doing this to avoid class bloat is to define generic class and have other classes extend it.

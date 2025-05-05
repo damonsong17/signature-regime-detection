@@ -1,4 +1,4 @@
-from utils.Config import Config
+from src.utils.Config import Config
 
 
 _default_args = {

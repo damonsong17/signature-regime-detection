@@ -5,7 +5,7 @@ import iisignature
 import numpy as np
 from tqdm import tqdm
 
-import path_transformations
+from src.utils.auxiliary_classes.PathTransformer import path_transformations
 from src.utils.auxiliary_classes.PathTransformer import PathTransformerConfig
 
 
